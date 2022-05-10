@@ -26,6 +26,9 @@ class Arithmetic:
 
     def remainder(self):
         return self.number2 % self.number1
-
+    
+    def floordiv(self):
+        return self.number2 // self.number1
+    
     def print_self(self):
         print(self)
