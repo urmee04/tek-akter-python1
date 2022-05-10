@@ -14,3 +14,4 @@ ar.print_self()
 #TODO: create several more instance of the Arithmetic class and add different values
 print(ar.subtract())
 print(ar.multiply())
+print(ar.floordiv())
